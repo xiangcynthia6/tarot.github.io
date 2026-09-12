@@ -1,0 +1,3 @@
+Rider–Waite–Smith tarot, illustrated by Pamela Colman Smith, directed by Arthur Edward Waite, first published 1909. Original artwork is public domain. Scans obtained from metabismuth/tarot-json (MIT repository), originating at data.totl.net/tarot-rwcs-images/.
+https://github.com/metabismuth/tarot-json
+https://commons.wikimedia.org/wiki/File:Rider-Waite_Major_Arcana_full.png
